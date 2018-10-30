@@ -106,5 +106,6 @@ extension UIView {
         self.layer.shadowOpacity = 0.5
         self.layer.cornerRadius = frame.width / 2
     }
+    
 }
 
